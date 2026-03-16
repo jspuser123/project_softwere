@@ -1,0 +1,110 @@
+﻿t_lanName:Italiano
+t_lan:lingua
+t_translate:Traduci WinfrGUI
+t_fontName: Arial
+t_version:Versione
+t_ow:Sito Web Ufficiale
+t_right: WinfrGUI. Tutti i diritti riservati.
+splash.lblWait: Caricamento di dischi, si prega di attendere...
+FormMain_tsmiAbout: Info
+FormMain_tsmiCheckUpdate:Controlla gli aggiornamenti
+FormMain_tsmiFeedback: Segnala problema
+FormMain_tsmiHelp: Aiuto
+disk_AvailableOf: libero
+t_hasUseSpace: Usato
+t_diskFileSystem: File System
+FormMain_btnBegin: Avvia Recupero
+FormMain_btnAdvance: Impostazioni Avanzate
+FormMain_PicTipLocation: La posizione in cui salvare i file recuperati non può essere la stessa partizione scansionata.
+FormMain.amPanel3.default_pleaseChoosePatition: Seleziona una partizione
+FormMain.label2: Percorsi salvati
+FormMain.lblWarnning: Cambiare destinazione. Salvare sulla stessa partizione scansionata causerà la perdita dei dati.
+FormMain.label1: Seleziona una partizione da scansionare
+FormMain.amPanel2.default_pleaseChoose: Seleziona
+m_DirectoryNotExist: Il percorso specificato non esiste. Selezionare un altro percorso e continuare.
+NTFS_Fast: Scansione Rapida
+NTFS_Fast_Desc: Scansione veloce. Recupera file con la struttura della cartella e i nomi dei file. Supportato solo su NTFS.
+Other_Deep: Scansione Approfondita
+Other_Deep_Desc: Scansione lenta. Recupera anche i file che hanno perso il nome del file e la struttura della cartella.
+FormUpdate_btnCancel: Ignora
+FormUpdate_btnOK: Scarica
+FormUpdate_btnClose: OK
+FormUpdate_lblTitle: Controlla gli aggiornamenti
+FormUpdate_lblCurrentVer: Versione attuale:
+FormUpdate_lblNewVer: Nuova versione disponibile:
+FormUpdate_lblLastVer: Hai l'ultima versione!
+FormAdvance_chkOK: Tipi di file da scansionare
+FormAdvance_chkDirectory: Cartelle da scansionare
+FormAdvance_picTipDirectory: Se non si seleziona una cartella, saranno scansionate tutte le cartelle.
+FormAdvance_picTipFileType: Se non si seleziona un'estensione, saranno scansionati tutti i tipi di file.
+FormAdvance_picTipCustom: Separa le estensioni e i nomi dei file con un punto e virgola.
+FormAdvance_btnCancel: Annulla
+FormAdvance_btnOK: OK
+FormAdvance.pnlBorder.pnlDir.tabControl1.tabPage2.lblTotalSize: Numero di settori
+FormAdvance.pnlBorder.pnlDir.tabControl1.tabPage2.lblZuSize: Dimensione del cluster (Byte)
+FormAdvance.pnlBorder.pnlDir.tabControl1.tabPage2.lblStartSan: Settore iniziale
+FormAdvance.pnlBorder.pnlSetting.pnlDoc.label1: Personalizza estensioni/nomi dei file
+FormAdvance.pnlBorder.pnlTitle.lblTitle: Impostazioni Avanzate
+formScan_btnView: Visualizza File Recuperati
+formScan_btnStop: Ferma
+FormScan.label1: Tempo residuo stimato：
+FormScan.lblPercent: 0%
+FormScan.lblFindFile: File trovati：
+FormScan.lblScanDesc: Scansione approfondita in corso：
+FormScan.pnlBorder.lblScanDesc_Fast: Scansione rapida in corso：
+FormScan.lblUseTime: Tempo trascorso：
+FormScan_Hour: h
+FormScan_Minutes: m
+FormScan_Second: s
+FormStopWarnning_lblTitle:Nota
+FormStopWarnning_lblTips: La scansione non è completa. Il software proverà a recuperare i file trovati fino ad ora quando si arresta.
+FormStopWarnning_lblConfirm: Sicuro di voler interrompere la scansione?
+FormStopWarnning_btnCancel: Annulla
+FormStopWarnning_btnStop: Ferma
+FormScanComplete_lblFileCount: File trovati：
+FormScanComplete_lblLocation: I file recuperati sono stati salvati in
+FormScanComplete_lblScanMode_Fast: Scansione Rapida completata
+FormScanComplete_lblScanMode_Fast_Stop: Scansione Rapida interrotta
+FormScanComplete_lblScanMode_Deep: Scansione Approfondita completata
+FormScanComplete_lblScanMode_Deep_Stop: Scansione Approfondita interrotta
+FormScanComplete_btnReturn: Torna alla Home
+FormScanComplete_btnView: Visualizza File Recuperati
+FormScanComplete_lblTips: Se non trovi il file che cercavi, prova con la Scansione Approfondita.
+FormAttachWarn_btnOK: OK
+FormAttachWarn_lblTips: Suggerimenti
+FormAttachWarn_lblAttachSize: Impossibile impostare la lettera dell'unità automaticamente. Imposta la lettera dell'unità manualmente e riprova.
+t_etc: ecc
+t_doc: Documenti
+t_img: Foto
+t_video: Video
+t_voice: Audio
+t_webpage: Pagine Web
+t_zip: File Compressi
+t_other: Estensioni/Nomi di file personalizzati
+FormAbout_lblTitle: Info
+FormAbout_lblHome: Sito Web:
+FormAbout_lblSupport: Supporto:
+FormAbout_lblNoteEn:WinfrGUI, utilizzando le funzioni di Winfr (Windows File Recovery, Applicazione da riga di comando Microsoft), recupera i file cancellati con un'interfaccia utente grafica, applicabile a tutti gli utenti. Il software è gratuito al 100%! Si prega gentilmente di condividere il                sito Web ufficiale con i tuoi amici se funziona.
+msg_Advance_SelectedType: Seleziona almento un tipo di file
+msg_Advance_SelectedPath: Seleziona almeno una cartella di recupero
+
+FormMain.lblScanMode: Modalità di Scansione
+msg_scan_DiskIsFull:  Spazio insufficiente. Cambia la cartella di destinazione e riprova.
+FormUpdate_lblCheckingUpdate: Controlla gli aggiornamenti, attendere...
+FormMain.pnlDisk.DiskPanel.label1: C: 系统盘
+
+FormMain.lblDirWarn: La cartella inserita non esiste.
+msg_Advance_InputCustom: Deve essere selezionato almeno un'estensione o nome di file.
+FormAdvance.pnlBorder.pnlDir.tabControl1.tabPage1.chkDirectory: Cartelle da scansionare
+FormAdvance.pnlBorder.pnlSetting.chkOK: Tipi di file da cercare
+FormAdvance.pnlBorder.pnlDir.tabControl1.tabPage1.chkDirectory: Cartelle da scansionare
+msg_Warn_SearchDisk_Error: Impossibile ottenere informazioni sul disco.
+msg_Warn_SearchVolume_Error: Impossibile ottenere informazioni sul volume.
+FormMain.lblWarning: WinfrGUI, utilizzando le funzioni di Winfr (Windows File Recovery, Applicazione della riga di comando di Microsoft), recupera i file cancellati utilizzando un'interfaccia utente grafica.
+FormMain_bitLock_Warnning: L'applicazione non può recuperare la partizione criptata {0}. Decriptala e prova di nuovo.
+FormMain_longPath_Warnning: Il percorso di destinazione è troppo lungo. Utilizza un percorso più corto.
+FormMain.label3: label3
+FormMain.lblAdvanceWidth: Réglages avancés
+FormMain.lblScanModeDesc: Slow scanning speed. It can recover more files that have lost the directory structure and file names.
+FormScan.Dis_ScanMode: G: testtesttesttesttesttesttesttest
+FormScan.Dis_UseTime: 0 m 14 s

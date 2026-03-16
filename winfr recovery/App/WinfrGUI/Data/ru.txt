@@ -1,0 +1,111 @@
+t_lanName:Русский язык
+t_lan:Язык
+t_translate:Перевод WinfrGUI
+t_version:Версия
+t_fontName: Arial
+t_ow:Официальный сайт
+t_right:WinfrGUI. All Rights Reserved.
+splash.lblWait: Загрузка диска, пожалуйста подождите...
+FormMain_tsmiAbout: О приложении
+FormMain_tsmiCheckUpdate:Проверка обновлений
+FormMain_tsmiFeedback: Отзыв о проблеме
+FormMain_tsmiHelp: Помощь
+disk_AvailableOf: Свободно
+t_hasUseSpace: Занято
+t_diskFileSystem: Файловая система
+FormMain_btnBegin: Начать восстановление
+FormMain_btnAdvance: Глубокие настройки
+FormMain_PicTipLocation: Место, где сохраняются восстановленные файлы, не может совпадать с отсканированным разделом.
+FormMain.amPanel3.default_pleaseChoosePatition: Пожалуйста выберете раздел
+FormMain.label2: Сохранить
+FormMain.lblWarnning: Пожалуйста, измените местоположение. Это приведет к потере данных, если сохраненный раздел совпадает с отсканированным разделом.
+FormMain.label1: Выберите раздел для сканирования
+FormMain.amPanel2.default_pleaseChoose: Пожалуйста, выберите
+m_DirectoryNotExist: Указанный путь не существует. Пожалуйста, выберите другое место и нажмите продолжить.
+NTFS_Fast: Быстрое сканирование
+NTFS_Fast_Desc: Высокая скорость сканирования. Поможет восстанавить файлы со структурой каталогов и именами файлов. Поддерживает только NTFS.
+Other_Deep: Глубокое сканирование
+Other_Deep_Desc: Медленная скорость сканирования. Поможет восстановить больше файлов, которые потеряли структуру каталогов и имена файлов.
+FormUpdate_btnCancel: Игнорировать
+FormUpdate_btnOK: Загрузить
+FormUpdate_btnClose: OK
+FormUpdate_lblTitle: Проверка обновлений
+FormUpdate_lblCurrentVer: Текущая версия：
+FormUpdate_lblNewVer: Доступна новая версия：
+FormUpdate_lblLastVer: Обновлений нет!
+FormAdvance_chkOK: Выберете типы файлов
+FormAdvance_chkDirectory: Выберете папки
+FormAdvance_picTipDirectory: Все папки будут просканированы, если ни одна из них не выбрана.
+FormAdvance_picTipFileType: Все типы файлов будут сканироваться, если ни один из них не выбран.
+FormAdvance_picTipCustom: Разделите несколько расширений/имен файлов точкой с запятой.
+FormAdvance_btnCancel: Отмена
+FormAdvance_btnOK: OK
+FormAdvance.pnlBorder.pnlDir.tabControl1.tabPage2.lblTotalSize: Количество секторов
+FormAdvance.pnlBorder.pnlDir.tabControl1.tabPage2.lblZuSize: Размер кластера (байт)
+FormAdvance.pnlBorder.pnlDir.tabControl1.tabPage2.lblStartSan: Загрузочный сектор
+FormAdvance.pnlBorder.pnlSetting.pnlDoc.label1: Пользовательские расширения/имена файлов
+FormAdvance.pnlBorder.pnlTitle.lblTitle: Расширенные настройки
+formScan_btnView: Просмотр восстановленных файлов
+formScan_btnStop: Стоп
+FormScan.label1: Оставшееся время:
+FormScan.lblPercent: 0%
+FormScan.lblFindFile: Файл найден：
+FormScan.lblScanDesc: Выполняется глубокое сканирование：
+FormScan.pnlBorder.lblScanDesc_Fast: Выполняется быстрое сканирование：
+FormScan.lblUseTime: Пройденное время：
+FormScan_Hour: ч
+FormScan_Minutes: м
+FormScan_Second: с
+FormStopWarnning_lblTitle:Примечание
+FormStopWarnning_lblTips: Сканирование еще не завершено. Программа попытается восстановить файлы после окончания сканирования.
+FormStopWarnning_lblConfirm: Вы уверены, что хотите остановить сканирование?
+FormStopWarnning_btnCancel: Отмена
+FormStopWarnning_btnStop: Стоп
+FormScanComplete_lblFileCount: Найдены файлы：
+FormScanComplete_lblLocation: Восстановленные файлы были сохранены в
+FormScanComplete_lblScanMode_Fast: Быстрое сканирование завершено
+FormScanComplete_lblScanMode_Fast_Stop: Быстрое сканирование остановлено
+FormScanComplete_lblScanMode_Deep: Глубокое сканирование завершено
+FormScanComplete_lblScanMode_Deep_Stop: Глубокое сканирование остановлено
+FormScanComplete_btnReturn: Вернуться на главную
+FormScanComplete_btnView: Просмотреть востановленные файлы
+FormScanComplete_lblTips: Если вы не можете найти нужный файл, попробуйте выполнить глубокое сканирование.
+FormAttachWarn_btnOK: OK
+FormAttachWarn_lblTips: Советы
+FormAttachWarn_lblAttachSize: Не удалось автоматически выделить букву диска. Назначьте букву диска вручную и повторите попытку.
+t_etc: Прочее
+t_doc: Документы
+t_img: Изображения
+t_video: Видео
+t_voice: Аудио
+t_webpage: Веб-страницы
+t_zip: Сжатые файлы
+t_other: Пользовательские расширения/имена файлов
+FormAbout_lblTitle: О программе
+FormAbout_lblHome: Вебсайт:
+FormAbout_lblSupport: Поддержка:
+FormAbout_lblNoteEn:WinfrGUI, оболочка для Winfr (Windows File Recovery, приложение командной строки Microsoft), восстанавливает удаленные файлы с помощью графического пользовательского интерфейса. Программное обеспечение на 100% бесплатно! Пожалуйста, поделитесь официальным сайтом с друзьями, если оно работает.
+msg_Advance_SelectedType: Пожалуйста, выберите хотя бы один тип файла
+msg_Advance_SelectedPath: Пожалуйста, выберите хотя бы один каталог для восстановления
+
+FormMain.lblScanMode: Режим сканирования
+msg_scan_DiskIsFull:  Недостаточно места для сохранения. Измените место сохранения и повторите попытку.
+FormUpdate_lblCheckingUpdate: Проверяются обновления, пожалуйста подождите...
+FormMain.pnlDisk.DiskPanel.label1: Системный диск C:
+
+FormMain.lblDirWarn: Указанный вами каталог не существует.
+msg_Advance_InputCustom: Если флажок установлен, требуется хотя бы одно пользовательское расширение или имя файла.
+FormAdvance.pnlBorder.pnlDir.tabControl1.tabPage1.chkDirectory: Выберете папки
+FormAdvance.pnlBorder.pnlSetting.chkOK: Выберете типы файлов
+FormAdvance.pnlBorder.pnlDir.tabControl1.tabPage1.chkDirectory: Выберете папки
+msg_Warn_SearchDisk_Error: Не удалось найти информацию о диске.
+msg_Warn_SearchVolume_Error: Не удалось найти информацию о томе.
+FormMain.lblWarning: Полностью задействовав функции Windows File Recovery приложения командной строки Microsoft, WinfrGUI восстанавливает удаленные файлы с помощью графического пользовательского интерфейса.
+FormMain_bitLock_Warnning: Приложение не может восстановить зашифрованный раздел {0}. Пожалуйста, расшифруйте его и повторите попытку.
+FormMain_longPath_Warnning: Путь назначения слишком длинный. Пожалуйста, попробуйте местоположение, которое имеет более короткий путь.
+FormMain.label3: label3
+FormMain.lblAdvanceWidth: Расширенные настройки
+FormMain.lblScanModeDesc: Высокая скорость сканирования. Может восстанавливать файлы со структурой каталогов и именами файлов. Поддерживает только NTFS.
+FormScan.Dis_ScanMode: G: testtesttesttesttesttesttesttest
+FormScan.Dis_UseTime: 0 м 8 с
+FormScan.Dis_Estimated: 0 м 5 с

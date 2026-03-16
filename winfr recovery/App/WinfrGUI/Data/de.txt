@@ -1,0 +1,111 @@
+t_lanName:Deutsch
+t_lan:Sprache
+t_translate:WinfrGUI übersetzen
+t_version:Version
+t_fontName: Arial
+t_ow:Offizielle Website
+t_right: WinfrGUI. Alle Rechte vorbehalten.
+splash.lblWait: Initialisiere Datenträger, bitte warten...
+FormMain_tsmiAbout: Über
+FormMain_tsmiCheckUpdate:Nach Updates suchen
+FormMain_tsmiFeedback: Problemrückmeldung
+FormMain_tsmiHelp: Hilfe
+disk_AvailableOf: frei von
+t_hasUseSpace: Verwendet
+t_diskFileSystem: Dateisystem
+FormMain_btnBegin: Wiederherstellung starten
+FormMain_btnAdvance: Erweiterte Einstellungen
+FormMain_PicTipLocation: Der Speicherort der wiederhergestellten Dateien darf nicht mit der gescannten Partition identisch sein.
+FormMain.amPanel3.default_pleaseChoosePatition: Bitte wählen Sie eine Partition aus
+FormMain.label2: Speichern unter
+FormMain.lblWarnning: Bitte ändern Sie einen Speicherort. Es führt zu Datenverlusten, wenn die gespeicherte Partition mit der gescannten Partition identisch ist.
+FormMain.label1: Wählen Sie eine Partition zum Scannen aus
+FormMain.amPanel2.default_pleaseChoose: Bitte wählen Sie
+m_DirectoryNotExist: Der angegebene Pfad existiert nicht. Bitte wählen Sie einen anderen Speicherort aus und fahren Sie fort.
+NTFS_Fast: Schnellscan
+NTFS_Fast_Desc: Schnelle Scangeschwindigkeit. Dateien mit der Verzeichnisstruktur und den Dateinamen werden wiederhergestellt. Es unterstützt nur NTFS.
+Other_Deep: Tiefenscan
+Other_Deep_Desc: Langsame Scangeschwindigkeit. Es kann mehr Dateien wiederherstellen, die die Verzeichnisstruktur und Dateinamen verloren haben.
+FormUpdate_btnCancel: Ignorieren
+FormUpdate_btnOK: Herunterladen
+FormUpdate_btnClose: OK
+FormUpdate_lblTitle: Nach Updates suchen
+FormUpdate_lblCurrentVer: Aktuelle Version：
+FormUpdate_lblNewVer: Eine neue Version ist verfügbar：
+FormUpdate_lblLastVer: Sie sind der Neueste!
+FormAdvance_chkOK: Zieldateitypen
+FormAdvance_chkDirectory: Zielordner
+FormAdvance_picTipDirectory: Alle Ordner werden gescannt, wenn keine Option angekreuzt ist.
+FormAdvance_picTipFileType: Alle Dateitypen werden gescannt, wenn keine Option angekreuzt ist.
+FormAdvance_picTipCustom: Bitte trennen Sie mehrere Dateierweiterungen/Dateinamen mit Semikolons.
+FormAdvance_btnCancel: Abbrechen
+FormAdvance_btnOK: OK
+FormAdvance.pnlBorder.pnlDir.tabControl1.tabPage2.lblTotalSize: Anzahl der Sektoren
+FormAdvance.pnlBorder.pnlDir.tabControl1.tabPage2.lblZuSize: Clustergröße （Byte）
+FormAdvance.pnlBorder.pnlDir.tabControl1.tabPage2.lblStartSan: Startsektor
+FormAdvance.pnlBorder.pnlSetting.pnlDoc.label1: Benutzerdefinierte Erweiterungen/Dateinamen
+FormAdvance.pnlBorder.pnlTitle.lblTitle: Erweiterte Einstellungen
+formScan_btnView: Wiederhergestellte Dateien
+formScan_btnStop: Stoppen
+FormScan.label1:  Voraussichtlich verbleibende Zeit：
+FormScan.lblPercent: 0%
+FormScan.lblFindFile: Datei(en) gefunden：
+FormScan.lblScanDesc: Tiefenscan läuft：
+FormScan.pnlBorder.lblScanDesc_Fast: Schnellscan läuft:
+FormScan.lblUseTime: Verstrichene Zeit：
+FormScan_Hour: Std
+FormScan_Minutes: Min
+FormScan_Second: Sek
+FormStopWarnning_lblTitle: Hinweis
+FormStopWarnning_lblTips: Der Scanvorgang ist noch nicht abgeschlossen. Die Software versucht beim Stoppen, Dateien aus dem Scanergebnis wiederherzustellen.
+FormStopWarnning_lblConfirm: Sind Sie sicher, dass Sie den Scanvorgang beenden möchten?
+FormStopWarnning_btnCancel: Weiter
+FormStopWarnning_btnStop: Beenden
+FormScanComplete_lblFileCount: Gefundene Dateien：
+FormScanComplete_lblLocation: Die wiederhergestellten Dateien wurden gespeichert in
+FormScanComplete_lblScanMode_Fast: Schnellscan abgeschlossen
+FormScanComplete_lblScanMode_Fast_Stop: Schnellsuche gestoppt
+FormScanComplete_lblScanMode_Deep: Tiefenscan abgeschlossen
+FormScanComplete_lblScanMode_Deep_Stop: Tiefenscan gestoppt
+FormScanComplete_btnReturn: Zurück zur Startseite
+FormScanComplete_btnView: Wiederhergestellte Dateien
+FormScanComplete_lblTips: Wenn Sie die gesuchte Datei nicht finden können, versuchen Sie einen Tiefenscan.
+FormAttachWarn_btnOK: OK
+FormAttachWarn_lblTips: Tipps
+FormAttachWarn_lblAttachSize: Der Laufwerksbuchstabe konnte nicht erkannt werden. Bitte nehmen Sie eine manuelle Zuordnung vor und versuchen Sie es erneut.
+t_etc: usw.
+t_doc: Dokumente
+t_img: Fotos
+t_video: Videos
+t_voice: Audios
+t_webpage: Webseiten
+t_zip: Komprimierte Dateien
+t_other: Benutzerdefinierte Erweiterungen/Dateinamen
+FormAbout_lblTitle: Über
+FormAbout_lblHome: Webseite:
+FormAbout_lblSupport: Support:
+FormAbout_lblNoteEn:WinfrGUI, das die Funktion von Winfr (Windows File Recovery, Microsoft-Befehlszeilenprogramm) aufruft, stellt gelöschte Dateien mit einer grafischen Benutzeroberfläche wieder her und ist für alle Benutzer geeignet. Die Software ist 100% kostenlos! Bitte teilen Sie die offizielle Website  mit Ihren Freunden, wenn sie funktioniert.
+msg_Advance_SelectedType: Bitte wählen Sie mindestens einen Dateityp aus
+msg_Advance_SelectedPath: Bitte wählen Sie mindestens ein Wiederherstellungsverzeichnis aus
+
+FormMain.lblScanMode: Scanmodus
+msg_scan_DiskIsFull: Nicht genügend Speicherplatz. Bitte ändern Sie den Speicherort und versuchen Sie es erneut.
+FormUpdate_lblCheckingUpdate: Suche nach Updates, bitte warten...
+FormMain.pnlDisk.DiskPanel.label1: Systemlaufwerk C:
+
+FormMain.lblDirWarn: Das von Ihnen ausgewählte Verzeichnis existiert nicht.
+msg_Advance_InputCustom: Es muss mindestens eine benutzerdefinierte Erweiterung eingetragen werden, wenn diese Option ausgewählt wurde.
+FormAdvance.pnlBorder.pnlDir.tabControl1.tabPage1.chkDirectory: Zielordner
+FormAdvance.pnlBorder.pnlSetting.chkOK: Zieldateitypen
+FormAdvance.pnlBorder.pnlDir.tabControl1.tabPage1.chkDirectory: Zielordner
+msg_Warn_SearchDisk_Error: Die Suche nach Festplatteninformationen ist fehlgeschlagen.
+msg_Warn_SearchVolume_Error: Die Suche nach Volumeninformationen ist fehlgeschlagen.
+FormMain.lblWarning: WinfrGUI ruft vollständig die Funktionen der Microsoft-Befehlszeilenanwendung Windows File Recovery auf und stellt gelöschte Dateien mit einer grafischen Benutzeroberfläche wieder her.
+FormMain_bitLock_Warnning: Die Anwendung kann die verschlüsselte Partition {0} nicht wiederherstellen. Bitte entschlüsseln Sie diese zunächst und versuchen Sie es erneut.
+FormMain_longPath_Warnning: Der Zielpfad ist zu lang. Bitte wählen Sie einen Speicherort mit einem kürzeren Pfad aus.
+FormMain.label3: label3
+FormMain.lblAdvanceWidth: Advanced Settings
+FormMain.lblScanModeDesc: Fast scanning speed. It can recover files with the directory structure and file names. It only supports NTFS.
+FormScan.Dis_ScanMode: G: testtesttesttesttesttesttesttest
+FormScan.Dis_UseTime: 0 m 30 s
+FormScan.Dis_Estimated: 0 m 5 s

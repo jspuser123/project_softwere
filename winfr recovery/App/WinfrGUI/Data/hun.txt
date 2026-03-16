@@ -1,0 +1,113 @@
+t_lanName:Magyar
+t_lan: Nyelv
+t_translate: WinfrGUI fordítása
+t_version: Verzió
+t_fontName: Arial
+t_ow: Hivatalos webhely
+t_right:WinfrGUI. Minden jog fenntartva.
+splash.lblVárjon: Lemez betöltése, kérjük, várjon türelmesen...
+FormMain_tsmiAbout: Névjegy
+FormMain_tsmiCheckUpdate: Frissítések keresése
+FormMain_tsmiFeedback: Probléma-visszajelzés
+FormMain_tsmiHelp: Súgó
+disk_AvailableOf: szabad
+t_hasUseSpace: Használt
+t_diskFileSystem: Fájlrendszer
+FormMain_btnBegin: Indítsa el a helyreállítást
+FormMain_btnAdvance: Speciális beállítások
+FormMain_PicTipLocation: A helyreállított fájlok mentési helye nem lehet ugyanaz, mint a vizsgált partíció.
+FormMain.amPanel3.default_pleaseChoosePatition: Válasszon partíciót
+FormMain.label2: Mentés ide
+FormMain.lblWarnning: Kérjük, változtassa meg a helyet. Adatvesztést okoz, ha a mentett partíció megegyezik a vizsgált partícióval.
+FormMain.label1: Válassza ki a vizsgálni kívánt partíciót
+FormMain.amPanel2.default_pleaseChoose: Kérjük, válasszon
+m_DirectoryNotExist: A megadott elérési út nem létezik. Kérjük, válasszon másik helyet, és folytassa.
+NTFS_Fast: Gyors keresés
+NTFS_Fast_Desc: Gyors vizsgálati sebesség. Képes helyreállítani a könyvtárszerkezettel és fájlnevekkel rendelkező fájlokat. Csak az NTFS-t támogatja.
+Other_Deep: Mély vizsgálat
+Other_Deep_Desc: Lassú keresési sebesség. Több olyan fájlt képes helyreállítani, amelyek elvesztették a könyvtárszerkezetet és a fájlneveket.
+FormUpdate_btnCancel: Kihagyja
+FormUpdate_btnOK: Letöltés
+FormUpdate_btnClose: OK
+FormUpdate_lblTitle: Frissítések keresése
+FormUpdate_lblCurrentVer: Jelenlegi verzió:
+FormUpdate_lblNewVer: Új verzió érhető el:
+FormUpdate_lblLastVer: Naprakész!
+FormAdvance_chkOK: Célfájltípusok
+FormAdvance_chkDirectory: Célmappák
+FormAdvance_picTipDirectory: Ha nincs bejelölve, a rendszer minden mappát megvizsgál.
+FormAdvance_picTipFileType: Ha nincs bejelölve, a rendszer minden fájltípust megvizsgál.
+FormAdvance_picTipCustom: Több kiterjesztést/fájlnevet pontosvesszővel válassza el!
+FormAdvance_btnCancel: Mégse
+FormAdvance_btnOK: OK
+FormAdvance.pnlBorder.pnlDir.tabControl1.tabPage2.lblTotalSize: Szektorok száma
+FormAdvance.pnlBorder.pnlDir.tabControl1.tabPage2.lblZuSize: Klaszter mérete (Bájt)
+FormAdvance.pnlBorder.pnlDir.tabControl1.tabPage2.lblStartSan: Kezdő szektor
+FormAdvance.pnlBorder.pnlSetting.pnlDoc.label1: Egyéni kiterjesztések/fájlnevek
+FormAdvance.pnlBorder.pnlTitle.lblTitle: Speciális beállítások
+formScan_btnView: Helyreállított fájlok...
+formScan_btnStop: Leállítás
+FormScan.label1: Becsült hátralévő idő:
+FormScan.lblPercent: 0%
+FormScan.lblFindFile: Fájl(ok) található(k):
+FormScan.lblScanDesc: Mély vizsgálat fut:
+FormScan.pnlBorder.lblScanDesc_Fast: Gyors vizsgálat fut:
+FormScan.lblUseTime: Eltelt idő:
+FormScan_Hour: óra
+FormScan_Minutes: perc
+FormScan_Second: másodperc
+FormStopWarnning_lblTitle: Megjegyzés
+FormStopWarnning_lblTips: A vizsgálat még nem fejeződött be. A szoftver megpróbálja helyreállítani a fájlokat a beolvasott eredményből, amikor leállítja.
+FormStopWarnning_lblConfirm: Biztosan leállítja a keresést?
+FormStopWarnning_btnCancel: Mégse
+FormStopWarnning_btnStop: Leállítás
+FormScanComplete_lblFileCount: Talált fájlok:
+FormScanComplete_lblLocation: A helyreállított fájlok mentése megtörtént
+FormScanComplete_lblScanMode_Fast: Gyors vizsgálat befejeződött
+FormScanComplete_lblScanMode_Fast_Stop: Gyors vizsgálat leállt
+FormScanComplete_lblScanMode_Deep: A mély vizsgálat befejeződött
+FormScanComplete_lblScanMode_Deep_Stop: A mély vizsgálat leállt
+FormScanComplete_btnReturn: Vissza a kezdőlapra
+FormScanComplete_btnView: Helyreállított fájlok...
+FormScanComplete_lblTips: Ha nem találja a szükséges fájlt, próbáljon meg egy mély vizsgálatot.
+FormAttachWarn_btnOK: OK
+FormAttachWarn_lblTips: Tippek
+FormAttachWarn_lblAttachSize: Nem sikerült a meghajtóbetűjel automatikus kiosztása. Kérjük, manuálisan adja ki a meghajtó betűjelét, és próbálja újra.
+t_etc: stb.
+t_doc: Dokumentumok
+t_img: Fényképek
+t_video: Videók
+t_voice: Hangok
+t_webpage: Weboldalak
+t_zip: Tömörített fájlok
+t_other: Egyéni kiterjesztések/fájlnevek
+FormAbout_lblTitle: Névjegy
+FormAbout_lblHome: Webhely:
+FormAbout_lblSupport: Támogatás:
+A FormAbout_lblNoteEn: WinfrGUI a Winfr (Windows File Recovery, Microsoft parancssori alkalmazás) funkcióját hívva visszaállítja a törölt fájlokat egy grafikus felhasználói felülettel, amely minden felhasználóra vonatkozik. A szoftver 100%-ban ingyenes! Kérjük, ossza meg barátaival a hivatalos webhelyet, ha működik.
+msg_Advance_SelectedType: Kérjük, válasszon legalább egy fájltípust
+msg_Advance_SelectedPath: Kérjük, válasszon legalább egy helyreállítási könyvtárat
+
+FormMain.lblScanMode: Vizsgálati mód
+msg_scan_DiskIsFull: Nincs elegendő tárhely. Kérjük, módosítsa a tárolási helyet, és próbálja újra.
+FormUpdate_lblCheckingUpdate: Frissítések észlelése, kérjük, várjon...
+FormMain.pnlDisk.DiskPanel.label1: C: rendszerlemez
+
+FormMain.lblDirWarn: A megadott könyvtár nem létezik.
+msg_Advance_InputCustom: Legalább egy egyéni kiterjesztés vagy fájlnév szükséges, ha be van jelölve.
+FormAdvance.pnlBorder.pnlDir.tabControl1.tabPage1.chkDirectory: Vizsgálandó mappák
+FormAdvance.pnlBorder.pnlSetting.chkOK: Vizsgálandó fájltípusok
+FormAdvance.pnlBorder.pnlDir.tabControl1.tabPage1.chkDirectory: Vizsgálandó mappák
+msg_Warn_SearchDisk_Error: Nem sikerült a lemezinformációk keresése.
+msg_Warn_SearchVolume_Error: Nem sikerült a kötetre vonatkozó információk keresése.
+FormMain.lblWarning: A Microsoft parancssori alkalmazás Windows File Recovery szolgáltatásait teljes mértékben igénybe véve a WinfrGUI grafikus felhasználói felülettel állítja helyre a törölt fájlokat.
+FormMain_bitLock_Warnning: Az alkalmazás nem tudja visszaállítani a(z) {0} titkosított partíciót. Kérjük, fejtse vissza, és próbálja újra.
+FormMain_longPath_Warnning: A cél elérési útja túl hosszú. Kérjük, próbáljon meg olyan helyet, ahol rövidebb az útvonal.
+FormMain.label3: címke3
+FormMain.lblAdvanceWidth: További beállítások
+FormMain.lblScanModeDesc: Gyors vizsgálati sebesség. Képes helyreállítani a könyvtárszerkezettel és fájlnevekkel rendelkező fájlokat. Csak az NTFS-t támogatja.
+FormScan.Dis_ScanMode: G: teszttesztteszttesztteszttesztteszt
+FormScan.Dis_UseTime: 0 perc 8 másodperc
+FormScan.Dis_Estimated: 0 perc 5 másodperc
+splash.lblWait: Lemezinformációk olvasása, türelmet kérünk...
+FormAbout_lblNoteEn: WinfrGUI, invoking the function of Winfr (Windows File Recovery, Microsoft command-line app), recovers deleted files with a graphical user interface, applicable to all users. The software is 100% free! Please kindly share the official website  with your friends if it works.

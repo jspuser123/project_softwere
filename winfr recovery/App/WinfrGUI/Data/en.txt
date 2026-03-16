@@ -1,0 +1,111 @@
+t_lanName:English
+t_lan:Language
+t_translate:Translate WinfrGUI
+t_version:Version
+t_fontName: Arial
+t_ow:Official Website
+t_right:WinfrGUI. All Rights Reserved.
+splash.lblWait: Loading disk, please wait patiently...
+FormMain_tsmiAbout: About
+FormMain_tsmiCheckUpdate:Check for updates
+FormMain_tsmiFeedback: Problem feedback
+FormMain_tsmiHelp: Help
+disk_AvailableOf: free of
+t_hasUseSpace: Used
+t_diskFileSystem: File System
+FormMain_btnBegin: Start Recovery
+FormMain_btnAdvance: Advanced Settings
+FormMain_PicTipLocation: The location where the recovered files is saved cannot be the same as the scanned partition.
+FormMain.amPanel3.default_pleaseChoosePatition: Please select a partition
+FormMain.label2: Save to
+FormMain.lblWarnning: Please change a location. It will cause data loss if the saved one is the same as the scanned partition.
+FormMain.label1: Select a partition to scan
+FormMain.amPanel2.default_pleaseChoose: Please choose
+m_DirectoryNotExist: The specified path does not exist. Please select another location and continue.
+NTFS_Fast: Quick Scan
+NTFS_Fast_Desc: Fast scanning speed. It can recover files with the directory structure and file names. It only supports NTFS.
+Other_Deep: Deep Scan
+Other_Deep_Desc: Slow scanning speed. It can recover more files that have lost the directory structure and file names.
+FormUpdate_btnCancel: Ignore
+FormUpdate_btnOK: Download
+FormUpdate_btnClose: OK
+FormUpdate_lblTitle: Check for updates
+FormUpdate_lblCurrentVer: Current version：
+FormUpdate_lblNewVer: New version is available：
+FormUpdate_lblLastVer: You’re up to date!
+FormAdvance_chkOK: Target file types
+FormAdvance_chkDirectory: Target folders
+FormAdvance_picTipDirectory: All folders will be scanned if none is ticked.
+FormAdvance_picTipFileType: All file types will be scanned if none is ticked.
+FormAdvance_picTipCustom: Please separate multiple extensions/file names with semicolons.
+FormAdvance_btnCancel: Cancel
+FormAdvance_btnOK: OK
+FormAdvance.pnlBorder.pnlDir.tabControl1.tabPage2.lblTotalSize: Number of sectors
+FormAdvance.pnlBorder.pnlDir.tabControl1.tabPage2.lblZuSize: Cluster size（Byte）
+FormAdvance.pnlBorder.pnlDir.tabControl1.tabPage2.lblStartSan: Starting sector
+FormAdvance.pnlBorder.pnlSetting.pnlDoc.label1: Custom extensions/file names
+FormAdvance.pnlBorder.pnlTitle.lblTitle: Advanced settings
+formScan_btnView: View Recovered Files
+formScan_btnStop: Stop
+FormScan.label1: Estimated time remaining：
+FormScan.lblPercent: 0%
+FormScan.lblFindFile: File found：
+FormScan.lblScanDesc: Deep scan running：
+FormScan.pnlBorder.lblScanDesc_Fast: Quick scan running：
+FormScan.lblUseTime: Elapsed time：
+FormScan_Hour: h
+FormScan_Minutes: m
+FormScan_Second: s
+FormStopWarnning_lblTitle:Note
+FormStopWarnning_lblTips: The scanning has not completed yet. The software will try to recover files from the scanned result when stopping.
+FormStopWarnning_lblConfirm: Are you sure to stop scanning?
+FormStopWarnning_btnCancel: Cancel
+FormStopWarnning_btnStop: Stop
+FormScanComplete_lblFileCount: Files found：
+FormScanComplete_lblLocation: The recovered files have been saved in
+FormScanComplete_lblScanMode_Fast: Quick scan completed
+FormScanComplete_lblScanMode_Fast_Stop: Quick scan stoped
+FormScanComplete_lblScanMode_Deep: Deep scan completed
+FormScanComplete_lblScanMode_Deep_Stop: Deep scan stoped
+FormScanComplete_btnReturn: Back To Homepage
+FormScanComplete_btnView: View Recovered Files
+FormScanComplete_lblTips: If you can’t find the file you need, try a deep scan.
+FormAttachWarn_btnOK: OK
+FormAttachWarn_lblTips: Tips
+FormAttachWarn_lblAttachSize: Failed to allocate drive letter automatically. Please allocate drive letter manually and try again.
+t_etc: etc
+t_doc: Documents
+t_img: Photos
+t_video: Videos
+t_voice: Audios
+t_webpage: Web pages
+t_zip: Compressed files
+t_other: Custom extensions/file names
+FormAbout_lblTitle: About
+FormAbout_lblHome: Website:
+FormAbout_lblSupport: Support:
+FormAbout_lblNoteEn:WinfrGUI, invoking the function of Winfr (Windows File Recovery, Microsoft command-line app), recovers deleted files with a graphical user interface, applicable to all users. The software is 100% free! Please kindly share the official website  with your friends if it works.
+msg_Advance_SelectedType: Please select at least one file type
+msg_Advance_SelectedPath: Please select at least one recovery directory
+
+FormMain.lblScanMode: Scanning mode
+msg_scan_DiskIsFull:  Insufficient storage. Please change the storage location and try again.
+FormUpdate_lblCheckingUpdate: Detecting updates, please wait...
+FormMain.pnlDisk.DiskPanel.label1: C: 系统盘
+
+FormMain.lblDirWarn: The directory you entered does not exist.
+msg_Advance_InputCustom: At least one custom extension or file name is required if ticked.
+FormAdvance.pnlBorder.pnlDir.tabControl1.tabPage1.chkDirectory: Target folders
+FormAdvance.pnlBorder.pnlSetting.chkOK: Target file types
+FormAdvance.pnlBorder.pnlDir.tabControl1.tabPage1.chkDirectory: Target folders
+msg_Warn_SearchDisk_Error: Failed to search for disk information.
+msg_Warn_SearchVolume_Error: Failed to search for volume information.
+FormMain.lblWarning: Fully invoking the features of Microsoft command-line app Windows File Recovery, WinfrGUI recovers deleted files with a graphical user interface.
+FormMain_bitLock_Warnning: The application cannot recover the encrypted partition {0}. Please decrypt it and try again.
+FormMain_longPath_Warnning: The destination path is too long. Please try a location that has a shorten path.
+FormMain.label3: label3
+FormMain.lblAdvanceWidth: Réglages avancés
+FormMain.lblScanModeDesc: Fast scanning speed. It can recover files with the directory structure and file names. It only supports NTFS.
+FormScan.Dis_ScanMode: G: testtesttesttesttesttesttesttest
+FormScan.Dis_UseTime: 0 m 8 s
+FormScan.label2: View Recovered Files

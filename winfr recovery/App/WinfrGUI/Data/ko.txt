@@ -1,0 +1,112 @@
+t_lanName:한국어
+t_lan:언어
+t_translate:WinfrGUI 번역
+t_version:버전
+t_fontName: Arial
+t_ow:공식 웹사이트
+t_right:WinfrGUI. 모든 권리 소유.
+splash.lblWait: 디스크 불러오는 중, 잠시만 기다려 주세요...
+FormMain_tsmiAbout: 정보
+FormMain_tsmiCheckUpdate: 업데이트 확인
+FormMain_tsmiFeedback: 피드백 전송
+FormMain_tsmiHelp: 도움말
+disk_AvailableOf: 여유 공간
+t_hasUseSpace: 사용 공간
+t_diskFileSystem: 파일 시스템
+FormMain_btnBegin: 복구 시작
+FormMain_btnAdvance: 고급 설정
+FormMain_PicTipLocation: 복구된 파일을 저장할 위치는 검사할 파티션과 다른 위치를 선택해야 합니다.
+FormMain.amPanel3.default_PleaseChoosePatition: 파티션을 선택하세요.
+FormMain.label2: 저장 위치
+FormMain.lblWarnning: 위치를 변경하세요. 복구된 파일을 저장할 파티션이 검사할 파티션과 동일한 경우 데이터가 손실됩니다.
+FormMain.label1: 검사할 파티션 선택
+FormMain.amPanel2.default_PleaseChoose: 선택하세요.
+m_DirectoryNotExist: 지정된 경로가 존재하지 않습니다. 다른 위치를 선택하고 계속하세요.
+NTFS_Fast: 빠른 검사
+NTFS_Fast_Desc: 검사 속도 빠름. 디렉터리 구조와 파일 이름으로 파일을 복구할 수 있습니다. NTFS만 지원합니다.
+Other_Deep: 정밀 검사
+Other_Deep_Desc: 검사 속도 느림. 디렉터리 구조와 파일 이름이 손실된 경우에도 더 많은 파일을 복구할 수 있습니다.
+FormUpdate_btnCancel: 무시
+FormUpdate_btnOK: 다운로드
+FormUpdate_btn닫기: 확인
+FormUpdate_lblTitle: 업데이트 확인
+FormUpdate_lblCurrentVer: 현재 버전:
+FormUpdate_lblNewVer: 새 버전 사용 가능:
+FormUpdate_lblLastVer: 현재 최신 버전을 사용 중입니다!
+FormAdvance_chkOK: 대상 파일 유형
+FormAdvance_chkDirectory: 대상 폴더
+FormAdvance_picTipDirectory: 선택한 폴더가 없으면 모든 폴더를 검색합니다.
+FormAdvance_picTipFileType: 아무 것도 선택하지 않으면 모든 파일 형식을 검색합니다.
+FormAdvance_picTipCustom: 여러 확장명/파일 이름을 추가할 경우 세미콜론으로 구분합니다.
+FormAdvance_btnCancel: 취소
+FormAdvance_btnOK: 확인
+FormAdvance.pnlBorder.pnlDir.tabControl1.tabPage2.lblTotalSize: 섹터 수
+FormAdvance.pnlBorder.pnlDir.tabControl1.tabPage2.lblZuSize: 클러스터 크기(Bytes)
+FormAdvance.pnlBorder.pnlDir.tabControl1.tabPage2.lblStartSan: 시작 섹터
+FormAdvance.pnlBorder.pnlSetting.pnlDoc.label1: 사용자 지정 확장명 / 파일 이름
+FormAdvance.pnlBorder.pnlTitle.lblTitle: 고급 설정
+formScan_btnView: 복구된 파일 보기
+formScan_btnStop: 중지
+FormScan.label1: 남은 예상 시간：
+FormScan.lblPercent: 0%
+FormScan.lblFindFile: 찾은 파일 :
+FormScan.lblScanDesc: 정밀 검사 실행 중 :
+FormScan.pnlBorder.lblScanDesc_Fast: 빠른 검사 실행 중 :
+FormScan.lblUseTime: 경과 시간 ：
+FormScan_Hour: 시간
+FormScan_Minutes: 분
+FormScan_Second: 초
+FormStopWarnning_lblTitle: 참고
+FormStopWarnning_lblTips: 아직 검사가 완료되지 않았습니다. WinfrGUI는 중지할 때 검사한 결과에서 파일 복구를 시도합니다.
+FormStopWarnning_lblConfirm: 정말로 검사를 중지하시겠습니까?
+FormStopWarnning_btnCancel: 취소
+FormStopWarnning_btnStop: 중지
+FormScanComplete_lblFileCount: 찾은 파일：
+FormScanComplete_lblLocation: 복구된 파일 저장 위치 ---
+FormScanComplete_lblScanMode_Fast: 빠른 검사 완료
+FormScanComplete_lblScanMode_Fast_Stop: 빠른 검사가 중지되었습니다.
+FormScanComplete_lblScanMode_Deep: 정밀 검사 완료
+FormScanComplete_lblScanMode_Deep_Stop: 정밀 검사가 중지되었습니다.
+FormScanComplete_btnReturn: 홈으로 복귀
+FormScanComplete_btnView: 복구된 파일 보기
+FormScanComplete_lblTips: 필요한 파일을 찾을 수 없는 경우 정밀 검사를 시도해보세요.
+FormAttachWarn_btnOK: 확인
+FormAttachWarn_lblTips: 팁
+FormAttachWarn_lblAttachSize: 드라이브 문자를 자동으로 할당하지 못했습니다. 드라이브 문자를 수동으로 할당하고 다시 시도하세요.
+t_etc: 기타
+t_doc: 문서
+t_img: 사진
+t_video: 동영상
+t_voice: 오디오
+t_webpage: 웹 페이지
+t_zip: 압축 파일
+t_other: 사용자 확장명/파일 이름
+FormAbout_lblTitle: 정보
+FormAbout_lblHome: 웹사이트:
+FormAbout_lblSupport: 고객지원:
+FormAbout_lblNoteEn: Winfr(Windows 파일 복구, Microsoft 명령줄 앱) 기능을 사용하는 WinfrGUI는 모든 사용자에게 그래픽 사용자 인터페이스를 제공하여 삭제된 파일을 쉽게 복구할 수 있게 해줍니다. 이 소프트웨어는 100% 무료입니다! 맘에 드신다면 저희 공식 웹사이트를 친구들과 공유해 주세요.
+msg_Advance_SelectedType: 하나 이상의 파일 유형을 선택하세요.
+msg_Advance_SelectedPath: 하나 이상의 복구 디렉터리를 선택하세요.
+
+FormMain.lblScanMode: 검사 방식
+msg_scan_DiskIsFull: 저장 공간 부족! 저장 위치를 변경하고 다시 시도하세요.
+FormUpdate_lblCheckingUpdate: 업데이트 검색 중, 잠시 기다려 주세요...
+FormMain.pnlDisk.DiskPanel.label1: C: 시스템 디스크
+
+FormMain.lblDirWarn: 입력한 디렉터리가 존재하지 않습니다.
+msg_Advance_InputCustom: 선택한 경우 하나 이상의 사용자 지정 확장명 또는 파일 이름이 필요합니다.
+FormAdvance.pnlBorder.pnlDir.tabControl1.tabPage1.chkDirectory: 대상 폴더
+FormAdvance.pnlBorder.pnlSetting.chkOK: 대상 파일 유형
+FormAdvance.pnlBorder.pnlDir.tabControl1.tabPage1.chkDirectory: 대상 폴더
+msg_Warn_SearchDisk_Error: 디스크 정보를 검색하지 못했습니다.
+msg_Warn_SearchVolume_Error: 볼륨 정보를 검색하지 못했습니다.
+FormMain.lblWarning: Winfr(Windows 파일 복구, Microsoft 명령줄 앱) 기능을 사용하는 WinfrGUI는 모든 사용자에게 그래픽 사용자 인터페이스를 제공하여 삭제된 파일을 쉽게 복구할 수 있게 해줍니다.
+FormMain_bitLock_Warnning: 암호화된 {0} 파티션을 복구할 수 없습니다. 복호화한 후 다시 시도하세요.
+FormMain_longPath_Warnning: 대상 경로가 너무 깁니다. 경로가 짧은 위치를 시도하세요.
+FormMain.label3: label3
+FormMain.lblAdvanceWidth: 고급 설정
+FormMain.lblScanModeDesc: 검사 속도 빠름. 디렉터리 구조와 파일 이름으로 파일을 복구할 수 있습니다. NTFS 파일 시스템만 지원됩니다.
+FormScan.Dis_ScanMode: G: testtesttesttesttesttesttesttest
+FormScan.Dis_UseTime: 0분 8초
+FormMain.amPanel3.default_pleaseChoosePatition: Seleziona una partizione
+FormMain.amPanel2.default_pleaseChoose: Seleziona

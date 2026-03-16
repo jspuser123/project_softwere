@@ -1,0 +1,111 @@
+t_lanName:Català
+t_lan:Idiomes
+t_translate:Traduir WinfrGUI
+t_version:Version
+t_fontName: Arial
+t_ow:Lloc Web
+t_right:WinfrGUI. Tots els Drets Reservats.
+splash.lblWait: S'està carregant el disc, cal esperar...
+FormMain_tsmiAbout: Quant a
+FormMain_tsmiCheckUpdate:Cerca actualitzacions
+FormMain_tsmiFeedback: Anuncià Problemes
+FormMain_tsmiHelp: Ajuda
+disk_AvailableOf: Lliure de
+t_hasUseSpace: Usats
+t_diskFileSystem: Fitxer del Sistema
+FormMain_btnBegin: Inicia Recuperació
+FormMain_btnAdvance: Configuració avançada
+FormMain_PicTipLocation: La ubicació on es desen els Fitxers recuperats no pot ser la mateixa que la partició escanejada.
+FormMain.amPanel3.default_pleaseChoosePatition: Cal selecciona una partició
+FormMain.label2: Anomena i Desa
+FormMain.lblWarnning: Cal canviar una ubicació. Si es Desa a la mateixa que la partició escanejada, aixó pot causà la pèrdua de dades.
+FormMain.label1: Selecciona la partició a escanejar
+FormMain.amPanel2.default_pleaseChoose: Has d'escollir
+m_DirectoryNotExist: la Ubicació especificada no existeix. Selecciona una altra i continua.
+NTFS_Fast: Escaneig Ràpid
+NTFS_Fast_Desc: Velocitat d'escaneig ràpida. Pot recuperar Fitxers amb l'estructura de carpetes i els Noms de Fitxers. Només suporta NTFS.
+Other_Deep: Escaneig profund
+Other_Deep_Desc: Velocitat d'escaneig lenta. Pot recuperar més Fitxers que han perdut l'estructura de carpetes i els Noms dels Fitxers.
+FormUpdate_btnCancel: Ignora
+FormUpdate_btnOK: Descarrega
+FormUpdate_btnClose: D'acord
+FormUpdate_lblTitle: Cercar actualitzacions
+FormUpdate_lblCurrentVer: Versió actual：
+FormUpdate_lblNewVer: Nova versió està disponible：
+FormUpdate_lblLastVer: Ja tens la última Versió!
+FormAdvance_chkOK: Tipus de Fitxers a escanejar
+FormAdvance_chkDirectory: Carpetes a escanejar
+FormAdvance_picTipDirectory: S'escanejaran totes les Carpetes si no hi ha cap marcada.
+FormAdvance_picTipFileType: Si no n'hi ha cap de marcat s'escanejaran Tots els tipus de Fitxers.
+FormAdvance_picTipCustom: Cal separar les diverses Extensions/Noms de Fitxer amb un Punt i Coma;
+FormAdvance_btnCancel: Cancel·la
+FormAdvance_btnOK: D'acord
+FormAdvance.pnlBorder.pnlDir.tabControl1.tabPage2.lblTotalSize: Nombre de sectors
+FormAdvance.pnlBorder.pnlDir.tabControl1.tabPage2.lblZuSize: Mida del clúster（Bits）
+FormAdvance.pnlBorder.pnlDir.tabControl1.tabPage2.lblStartSan: Sector inicial
+FormAdvance.pnlBorder.pnlSetting.pnlDoc.label1: Extensions/Noms de Fitxers personalitzats
+FormAdvance.pnlBorder.pnlTitle.lblTitle: Configuració avançada
+formScan_btnView: Veure Fitxers Recuperats
+formScan_btnStop: Atura
+FormScan.label1: Temps estimat restant：
+FormScan.lblPercent: 0%
+FormScan.lblFindFile: Fitxers Trobats：
+FormScan.lblScanDesc: Executant l'escaneig profund：
+FormScan.pnlBorder.lblScanDesc_Fast: Executant l'escaneig Ràpid：
+FormScan.lblUseTime: Temps transcorregut：
+FormScan_Hour: h
+FormScan_Minutes: m
+FormScan_Second: s
+FormStopWarnning_lblTitle:Nota
+FormStopWarnning_lblTips: L'escaneig encara no s'ha completat. El programari intentarà recuperar el resultat dels Fitxers escanejats en quan s'aturi.
+FormStopWarnning_lblConfirm: N'estàs segur que vols atura l'escaneig?
+FormStopWarnning_btnCancel: Cancel·la
+FormStopWarnning_btnStop: Atura
+FormScanComplete_lblFileCount: Fitxers Trobats：
+FormScanComplete_lblLocation: Els Fitxers recuperats s'han Desat a
+FormScanComplete_lblScanMode_Fast: Escaneig ràpid completat
+FormScanComplete_lblScanMode_Fast_Stop: Escaneig ràpid Aturat
+FormScanComplete_lblScanMode_Deep: Escaneig profund completat
+FormScanComplete_lblScanMode_Deep_Stop: Escaneig profund Aturat
+FormScanComplete_btnReturn: Anar a pàgina Inicial
+FormScanComplete_btnView: Vere els Fitxers Recuperats
+FormScanComplete_lblTips: Si no trobes el Fitxer que necessites, prova un Escaneig profund.
+FormAttachWarn_btnOK: D'acord
+FormAttachWarn_lblTips: Advertiment
+FormAttachWarn_lblAttachSize: No s'ha pogut assignar automàticament la Lletra de la Unitat. Cal assigna la Lletra de la Unitat manualment i torna a provar-ho de nou.
+t_etc: etc
+t_doc: Documents
+t_img: Fotos
+t_video: Videos
+t_voice: Audios
+t_webpage: Pàgines Web
+t_zip: Fitxers Comprimits
+t_other: Extensions/Noms de Fitxers personalitzats
+FormAbout_lblTitle: Quant a
+FormAbout_lblHome: Lloc Web:
+FormAbout_lblSupport: Suport:
+FormAbout_lblNoteEn:WinfrGUI,invocant la funció de Winfr (Windows File Recovery, aplicació de Línia d'ordres de Microsoft), recupera els Fitxers suprimits amb una interfície gràfica d'usuari, aplicable a tots els usuaris. El programari és 100% gratuït! Si us plau, comparteix el Lloc Web oficial amb els teus amics si funciona.
+msg_Advance_SelectedType: Selecciona almenys un tipus de Fitxer
+msg_Advance_SelectedPath: Selecciona almenys una Carpeta de Recuperació
+
+FormMain.lblScanMode: Mode d'escaneig
+msg_scan_DiskIsFull:   Espai insuficient. Canvia la ubicació on els vols desar i torna a provar-ho de nou.
+FormUpdate_lblCheckingUpdate: S'estan detectant actualitzacions, espera...
+FormMain.pnlDisk.DiskPanel.label1: C: 系统盘
+
+FormMain.lblDirWarn: La Carpeta que has introduït no existeix.
+msg_Advance_InputCustom: Es requereix almenys una extensió personalitzada o un Nom de Fitxer si està marcat.
+FormAdvance.pnlBorder.pnlDir.tabControl1.tabPage1.chkDirectory: Carpetes d'escaneig
+FormAdvance.pnlBorder.pnlSetting.chkOK: Tipus de Fitxers a Recuperar
+FormAdvance.pnlBorder.pnlDir.tabControl1.tabPage1.chkDirectory: Carpetes d'escaneig
+msg_Warn_SearchDisk_Error: No s'ha pogut cercar la informació del Disc.
+msg_Warn_SearchVolume_Error: No s'ha pogut cercar la informació del volum.
+FormMain.lblWarning: Invocant completament les funcions de l'aplicació de Línia d'ordres de Microsoft Windows File Recovery, WinfrGUI recupera els Fitxers suprimits amb una interfície gràfica d'usuari.
+FormMain_bitLock_Warnning: L'aplicació no pot recuperar la partició xifrada {0}. Desxifra-ho i torna-ho a provar.
+FormMain_longPath_Warnning: El camí de destinació és massa Llarg..
+FormMain.label3: label3
+FormMain.lblAdvanceWidth: Configuració avançada
+FormMain.lblScanModeDesc: Velocitat d'escaneig ràpida. Pot recuperar Fitxers amb l'estructura de Carpetes i Noms de Fitxers. Només és compatible amb NTFS
+FormScan.Dis_ScanMode: G: testtesttesttesttesttesttesttest
+FormScan.Dis_UseTime: 0 m 8 s
+FormScan.Dis_Estimated: 5 m 34 s

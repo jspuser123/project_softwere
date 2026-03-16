@@ -1,0 +1,110 @@
+t_lanName:Français
+t_lan:Langues
+t_translate:Traduction WinfrGUI
+t_fontName: Arial
+t_version:Version
+t_ow:Site Officiel
+t_right: WinfrGUI. Tous droits réservés.
+splash.lblWait: Chargement du disque, patientez...
+FormMain_tsmiAbout: À propos
+FormMain_tsmiCheckUpdate:Vérifier les mises à jour
+FormMain_tsmiFeedback: Rétroaction
+FormMain_tsmiHelp: Aide
+disk_AvailableOf: libre de
+t_hasUseSpace: Utilisé
+t_diskFileSystem: Système de Fichier
+FormMain_btnBegin: Démarrer la récupération
+FormMain_btnAdvance: Réglages avancés
+FormMain_PicTipLocation: L'emplacement où les fichiers récupérés sont enregistrés ne peut pas être le même que la partition analysée.
+FormMain.amPanel3.default_pleaseChoosePatition: Veuillez choisir une partition
+FormMain.label2: Enregistrer dans
+FormMain.lblWarnning: Veuillez changer d'emplacement. Cela entraînera une perte de données si celle enregistrée est la même que la partition analysée.
+FormMain.label1: Sélectionnez une partition à analyser
+FormMain.amPanel2.default_pleaseChoose: Veuillez choisir
+m_DirectoryNotExist: Le chemin spécifié n'existe pas. Veuillez sélectionner un autre emplacement et continuer.
+NTFS_Fast: Analyse rapide
+NTFS_Fast_Desc: Vitesse d'analyse élevée. Il peut récupérer des fichiers avec la structure du répertoire et les noms de fichiers. Il ne prend en charge que NTFS.
+Other_Deep: Analyse approfondie
+Other_Deep_Desc: Vitesse d’analyse faible. Il peut récupérer plus de fichiers qui ont perdu la structure du répertoire et les noms de fichiers.
+FormUpdate_btnCancel: Ignorer
+FormUpdate_btnOK: Télécharger
+FormUpdate_btnClose: OK
+FormUpdate_lblTitle: Vérifier les mises à jour
+FormUpdate_lblCurrentVer: Version actuelle：
+FormUpdate_lblNewVer: Nouvelle version disponible：
+FormUpdate_lblLastVer: Vous êtes à jour!
+FormAdvance_chkOK: Types de fichiers cibles
+FormAdvance_chkDirectory: Dossiers cibles
+FormAdvance_picTipDirectory: Tous les dossiers seront analysés si aucun n'est coché.
+FormAdvance_picTipFileType: Tous les types de fichiers seront analysés si aucun n'est coché.
+FormAdvance_picTipCustom: Veuillez séparer plusieurs extensions/noms de fichiers par des points-virgules.
+FormAdvance_btnCancel: Annuler
+FormAdvance_btnOK: OK
+FormAdvance.pnlBorder.pnlDir.tabControl1.tabPage2.lblTotalSize: Nombre de secteurs
+FormAdvance.pnlBorder.pnlDir.tabControl1.tabPage2.lblZuSize: Taille du cluster (octet)
+FormAdvance.pnlBorder.pnlDir.tabControl1.tabPage2.lblStartSan: Secteur de départ
+FormAdvance.pnlBorder.pnlSetting.pnlDoc.label1: Extensions personnalisées/noms de fichiers
+FormAdvance.pnlBorder.pnlTitle.lblTitle: Réglages avancés
+formScan_btnView: Voir fichiers récupérés
+formScan_btnStop: Arrêter
+FormScan.label1: Temps restant estimé：
+FormScan.lblPercent: 0%
+FormScan.lblFindFile: Fichier trouvé：
+FormScan.lblScanDesc: Analyse approfondie en cours：
+FormScan.pnlBorder.lblScanDesc_Fast: Analyse rapide en cours：
+FormScan.lblUseTime: Temps écoulé：
+FormScan_Hour: h
+FormScan_Minutes: m
+FormScan_Second: s
+FormStopWarnning_lblTitle:Note
+FormStopWarnning_lblTips: L'analyse n'est pas encore terminée. Le logiciel essaiera de récupérer les fichiers du résultat de l'analyse lors de l'arrêt.
+FormStopWarnning_lblConfirm: Êtes-vous sûr d'arrêter l'analyse?
+FormStopWarnning_btnCancel: Annuler
+FormStopWarnning_btnStop: Arrêter
+FormScanComplete_lblFileCount: Fichiers trouvés：
+FormScanComplete_lblLocation: Les fichiers récupérés ont été sauvés dans
+FormScanComplete_lblScanMode_Fast: Analyse rapide terminée
+FormScanComplete_lblScanMode_Fast_Stop: Analyse rapide arrêtée
+FormScanComplete_lblScanMode_Deep: Analyse approfondie terminée
+FormScanComplete_lblScanMode_Deep_Stop: Analyse approfondie arrêtée
+FormScanComplete_btnReturn: Retour à l'accueil
+FormScanComplete_btnView: Voir fichiers récupérés
+FormScanComplete_lblTips: Si vous ne trouvez pas le fichier dont vous avez besoin, essayez une analyse approfondie.
+FormAttachWarn_btnOK: OK
+FormAttachWarn_lblTips: Conseils
+FormAttachWarn_lblAttachSize: Échec de l'attribution automatique de la lettre de lecteur. Veuillez allouer manuellement la lettre de lecteur et réessayer.
+t_etc: etc
+t_doc: Documents
+t_img: Photos
+t_video: Vidéos
+t_voice: Audios
+t_webpage: Pages Web
+t_zip: Fichiers compressés
+t_other: Extensions personnalisées/noms de fichiers
+FormAbout_lblTitle: À propos
+FormAbout_lblHome: Site Web:
+FormAbout_lblSupport: Support:
+FormAbout_lblNoteEn:WinfrGUI, invoquant la fonction de Winfr (récupération de fichiers Windows, application de ligne de commande Microsoft), récupère les fichiers supprimés à l'aide d'une interface utilisateur graphique, adapté à tous les utilisateurs. Le logiciel est 100% gratuit ! Merci de partager le site officiel  avec vos amis si cela fonctionne.
+msg_Advance_SelectedType: Veuillez choisir au moins un type de fichier
+msg_Advance_SelectedPath: Veuillez sélectionner au moins un répertoire de récupération
+
+FormMain.lblScanMode: Mode d'analyse
+msg_scan_DiskIsFull:  Espace insuffisant. Veuillez modifier l'emplacement de stockage et réessayer.
+FormUpdate_lblCheckingUpdate: Mises à jour détectées, veuillez patienter...
+FormMain.pnlDisk.DiskPanel.label1: C: disque système
+
+FormMain.lblDirWarn: Le répertoire saisi n'existe pas.
+msg_Advance_InputCustom: Au moins une extension personnalisée ou un nom de fichier est requis si coché.
+FormAdvance.pnlBorder.pnlDir.tabControl1.tabPage1.chkDirectory: Dossiers cibles
+FormAdvance.pnlBorder.pnlSetting.chkOK: Types de fichiers cibles
+FormAdvance.pnlBorder.pnlDir.tabControl1.tabPage1.chkDirectory: Dossiers cibles
+msg_Warn_SearchDisk_Error: Échec de la recherche d'informations sur le disque.
+msg_Warn_SearchVolume_Error: Échec de la recherche d'informations sur le volume.
+FormMain.lblWarning: Tout en invoquant les fonctionnalités de l'application en ligne de commande de Microsoft Windows File Recovery, WinfrGUI récupère les fichiers supprimés avec une interface utilisateur graphique.
+FormMain_bitLock_Warnning: L'application ne peut pas récupérer la partition cryptée {0}. Veuillez la décrypter et réessayer.
+FormMain_longPath_Warnning: Le chemin de destination est trop long. Veuillez essayer un emplacement qui a un chemin plus court.
+FormMain.label3: label3FormMain.lblAdvanceWidth: Erweiterte Einstellungen
+FormMain.lblScanModeDesc: Fast scanning speed. It can recover files with the directory structure and file names. It only supports NTFS.
+FormMain.lblAdvanceWidth: Erweiterte Einstellungen
+FormScan.Dis_ScanMode: G
+FormScan.Dis_UseTime: 0 m 37 s
